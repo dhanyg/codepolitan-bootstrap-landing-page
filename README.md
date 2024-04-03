@@ -1,0 +1,1 @@
+Ini merupakan landing page sederhana yang dibuat menggunakan framework Bootstrap 5. Halaman web ini merupakan hasil belajar dari platform *Codepolitan*.
